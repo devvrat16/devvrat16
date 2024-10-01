@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi There!; I'm Dev Vrat)](https://git.io/typing-svg)
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?
+font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dev+Vrat!;"/>
+  
+</h1>
+
 
 
 ## Watch snake eating my github contributions
