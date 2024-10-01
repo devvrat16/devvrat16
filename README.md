@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi There!; I'm Dev Vrat)](https://git.io/typing-svg)
+
+
 ## Watch snake eating my github contributions
 
 ![snake gif](https://github.com/devvrat16/devvrat16/blob/output/github-contribution-grid-snake.svg)
