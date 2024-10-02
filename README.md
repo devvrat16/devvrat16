@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/devvrat1601" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devvrat1601" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/devvrat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devvrat" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dev-vrat-9a0781276/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devvrat" height="30" width="40" /></a>
 <a href="https://instagram.com/dev_vrat16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev_vrat16" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/devvrat123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devvrat123" height="30" width="40" /></a>
 </p>
