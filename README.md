@@ -16,12 +16,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Dev Vrat</h1>
 <h3 align="center">A Btech. CSE Undergrad from Haryana, India 🇮🇳</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devvrat16&label=Profile%20views&color=0e75b6&style=flat" alt="devvrat16" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devvrat16" alt="devvrat16" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/devvrat1601" target="blank"><img src="https://img.shields.io/twitter/follow/devvrat1601?logo=twitter&style=for-the-badge" alt="devvrat1601" /></a> </p>
-
 - 📫 How to reach me **devvratalewa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
