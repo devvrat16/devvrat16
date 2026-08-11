@@ -146,8 +146,6 @@ I'm an **AI-focused Software Developer** and **B.Tech CSE (AI & ML) student at V
 </a>
 
 
-## Watch snake eating my github contributions
-
 ![design](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 <br><br>
