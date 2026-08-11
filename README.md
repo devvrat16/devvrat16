@@ -1,46 +1,3 @@
-
-<!--
-**devvrat16/devvrat16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋, I'm Dev Vrat</h1>
-<h3 align="center">A Btech. CSE Undergrad from Haryana, India 🇮🇳</h3>
-
-- 📫 How to reach me **devvratalewa@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/devvrat1601" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devvrat1601" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/dev-vrat-9a0781276/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devvrat" height="30" width="40" /></a>
-<a href="https://instagram.com/dev_vrat16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev_vrat16" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-
-## Watch snake eating my github contributions
-
-![design](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
-
-
-
-<div align="center">
-
-<h1>👋 Terminal Identity</h1>
-
-<p><b>devvrat@github</b>: <code>~$ ./portrait.sh</code></p>
-
 ```
                                                                                           
                                            ..........                                     
@@ -86,18 +43,6 @@ Here are some ideas to get you started:
                                                                                           
 ```
 
-<br>
-
-```
-██████╗ ███████╗██╗   ██╗    ██╗   ██╗██████╗  █████╗ ████████╗
-██╔══██╗██╔════╝██║   ██║    ██║   ██║██╔══██╗██╔══██╗╚══██╔══╝
-██║  ██║█████╗  ██║   ██║    ██║   ██║██████╔╝███████║   ██║   
-██║  ██║██╔══╝  ╚██╗ ██╔╝    ╚██╗ ██╔╝██╔══██╗██╔══██║   ██║   
-██████╔╝███████╗ ╚████╔╝      ╚████╔╝ ██║  ██║██║  ██║   ██║   
-╚═════╝ ╚══════╝  ╚═══╝        ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   
-                                                               
-```
-
 
 <div align="center">
 
@@ -118,8 +63,6 @@ Here are some ideas to get you started:
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=650&lines=Building+intelligent+systems+that+detect%2C+defend%2C+and+decide;99.98%25+accuracy+DDoS+detection+on+live+SDN+topology;CNN+%2F+DNN+%2F+Deepfake+Detection+%2F+Multi-Agent+AI;B.Tech+CSE+(AI+%26+ML)+%40+VIT+Bhopal+%7C+CGPA+8.62" alt="Typing SVG" />
-
 </div>
 
 <br>
@@ -128,7 +71,6 @@ Here are some ideas to get you started:
 
 I'm an **AI-focused Software Developer** and **B.Tech CSE (AI & ML) student at VIT Bhopal University** (CGPA 8.62), building intelligent systems at the intersection of **deep learning, computer vision, and cybersecurity**. My work spans real-time inference pipelines, multi-agent LLM architectures, and embedded AI — with models deployed reaching up to **99.98% detection accuracy** on production-scale traffic data.
 
-- 🔭 Currently building **SecurNet** — an AI-driven DDoS detection & mitigation system on live SDN topology
 - 🌱 Deepening my expertise in **Generative AI, multi-agent systems, and cloud-native ML deployment**
 - 🎯 Actively seeking **AI/ML Engineering internships and full-time roles**
 - 📍 Based in Bhopal, Madhya Pradesh, India
@@ -175,62 +117,6 @@ I'm an **AI-focused Software Developer** and **B.Tech CSE (AI & ML) student at V
 
 </div>
 
-<br>
-
-## 🚀 Featured Projects
-
-<table width="100%">
-<tr>
-<td width="100%">
-
-### 🛡️ SecurNet — AI-Driven DDoS Detection & Mitigation
-`TensorFlow` `DNN` `Ryu SDN` `Mininet` `Linux`
-
-Engineered a 4-layer deep neural network (128→256→128) trained on **343,889 labeled traffic records** across 84 features, achieving **99.98% accuracy** across three benchmark datasets. Automated real-time mitigation via OpenFlow flow-rule installation — cutting inference latency to **under 0.8s** and blocking threats live across a 6-switch, 18-host SDN topology.
-
-**Impact:** 99.98% accuracy · <0.8s inference latency · Live 6-switch/18-host network validation
-
-</td>
-</tr>
-<tr>
-<td width="100%">
-
-### 🤖 IdeaForge — Multi-Agent AI Ideation Platform
-`Python` `Flask` `Generative AI` `REST APIs` `PostgreSQL`
-
-Architected an **11-agent pipeline** (FastAPI + 70B-parameter LLM) that scores and ranks 3–15 ideas per query in seconds. Implemented vector-based deduplication using 768-dimension embeddings on PostgreSQL 16 for semantic uniqueness at scale.
-
-**Impact:** 11-agent orchestration · Sub-second ranking · 768-dim vector deduplication
-
-</td>
-</tr>
-<tr>
-<td width="100%">
-
-### 🦾 Robotic Prosthetic Hand
-`Python` `OpenCV` `Arduino` `Embedded Systems`
-
-Designed and programmed a 5-servo finger-actuation module (0°–180° range per digit) driven by real-time camera input and C++ microcontroller firmware, translating computer vision gesture data into physical motion.
-
-**Impact:** 95% gesture recognition accuracy across all 5 fingers in real-time testing
-
-</td>
-</tr>
-<tr>
-<td width="100%">
-
-### 🕵️ Deepfake Detection System — Undergraduate AI Research
-`Python` `CNN` `Computer Vision`
-
-Designed and trained a CNN-based deepfake detection system on large-scale public real/fake image datasets. Built a real-time image inference pipeline evaluated on a 20% validation split.
-
-**Impact:** A-grade academic evaluation · 58% precision / 55% recall on real-time validation split
-
-</td>
-</tr>
-</table>
-
-<br>
 
 ## 📊 GitHub Analytics
 
@@ -247,24 +133,6 @@ Designed and trained a CNN-based deepfake detection system on large-scale public
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=devvrat16&theme=tokyo-night&hide_border=true" width="100%" />
 </div>
 
-<br>
-
-## 🏆 Certifications
-
-| Certification | Issuer | Date |
-|---|---|---|
-| Generative AI using IBM watsonx | IBM | Jun 2025 |
-| Microsoft Certified: Azure Data Fundamentals (DP-900) | Microsoft | Jun 2025 |
-| ServiceNow Virtual Internship Program | ServiceNow | Jul 2026 |
-
-<br>
-
-## 🤝 Leadership
-
-- **Co-Lead, Corporate Team** — Notion Community Club, VIT Bhopal — led outreach and sponsorship, securing external partner collaborations
-- **Founder** — Andy Haryana Club — built and scaled a student community club from the ground up
-
-<br>
 
 <div align="center">
 
@@ -276,6 +144,11 @@ Designed and trained a CNN-based deepfake detection system on large-scale public
 <a href="mailto:devvratalewa@gmail.com">
   <img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
+
+## Watch snake eating my github contributions
+
+![design](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 <br><br>
 
